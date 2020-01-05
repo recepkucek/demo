@@ -10,5 +10,39 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "orders":[
+    {
+  "orderId": 4,
+  "orderNumber": "813c74ca3cc942c4b2150b297e23921c",
+  "name": "emir küçük",
+  "email": "m.emirkucuk@gmail.com",
+  "phone": "5462005644",
+  "price":48.0,
+  "address": {
+    "cityId": 34,
+    "townId": 25,
+    "details": "ünalan mah."
+  },
+  "items": [
+    {
+      "quantity": 2,
+      "productId": 1,
+      "itemContent": {
+        "content": "{
+          'centerText':'Recep Kücek',
+          'leftText:'',
+          'rightText:'',
+          'leftIcon':'/assets/plaka-icons/turk/png/turk-1.png',
+          'rightIcon':'/assets/plaka-icons/turk/png/turk-2.png',
+          'centerTextColor':'#FFFFFF',
+          'backgroundColor':'#000000'
+        }"
+      }
+    }
+  ],
+  "status": 0
+}
+  
+  ]
 }
