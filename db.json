@@ -31,8 +31,8 @@
       "itemContent": {
         "content": "{
           'centerText':'Recep Kücek',
-          'leftText:'',
-          'rightText:'',
+          'leftText':'',
+          'rightText':'',
           'leftIcon':'/assets/plaka-icons/turk/png/turk-1.png',
           'rightIcon':'/assets/plaka-icons/turk/png/turk-2.png',
           'centerTextColor':'#FFFFFF',
