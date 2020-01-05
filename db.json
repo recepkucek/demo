@@ -28,7 +28,7 @@
     {
       "quantity": 2,
       "productId": 1,
-      "itemContent": {
+      "itemContent": "{
         "content": "{
            \"centerText\":\"Recep Kücek\",
           \"leftText\":\"\",
