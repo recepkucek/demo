@@ -29,15 +29,7 @@
       "quantity": 2,
       "productId": 1,
       "itemContent":{
-        "content": "{
-           \"centerText\":\"Recep Kücek\",
-          \"leftText\":\"\",
-          \"rightText\":\"\",
-          \"leftIcon\":\"/assets/plaka-icons/turk/png/turk-1.png\",
-          \"rightIcon\":\"/assets/plaka-icons/turk/png/turk-2.png\",
-          \"centerTextColor\":\"#FFFFFF\",
-          \"backgroundColor\":\"#000000\"
-        }"
+        "content": "{}"
       }
     }
   ],
